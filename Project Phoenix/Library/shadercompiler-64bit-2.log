@@ -1,0 +1,12 @@
+Base path: D:/Work/Unity5.2/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-2-6064
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 8 at (0): Program 'fragDebug', error X4506: ps_4_0_level_9_1 input limit (8) exceeded, shader uses 9 inputs.\nCompiling Fragment program
+  api=8 type=1 insize=4135 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  api=8 type=1 insize=706 outsize=1560 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=Канал был закрыт.
+
+
+Quitting shader compiler process

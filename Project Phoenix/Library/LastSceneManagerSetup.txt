@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Landscapes part1/Maps/High_1/high_1.unity
+  isLoaded: 1
+  isActive: 1
